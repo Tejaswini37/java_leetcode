@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Tejaswini37/java_leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Tejaswini37/java_leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Tejaswini37/java_leetcode/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswini37/java_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/2873-prime-pairs-with-target-sum) |
