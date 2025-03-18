@@ -13,8 +13,7 @@ class Solution {
                 ans.add(i-c+1);
                 c=i+1;
             }
-            if(h.get(s.charAt(i))>max) max=h.get(s.charAt(i));
-
+            
         }
         return ans;
     }
