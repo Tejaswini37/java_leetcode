@@ -13,16 +13,35 @@ class Solution {
             
         // }
         //o(n)
-        List<Integer> l=new ArrayList<>();
-        int n=arr.length;
+        // List<Integer> l=new ArrayList<>();
+        // int n=arr.length;
+        // for(int i=0;i<n;i++){
+        //     l.add(arr[i]);
+        //     if(arr[i]==0){
+        //         l.add(0);
+        //     }
+        // }
+        // for(int i=0;i<n;i++){
+        //     arr[i]=l.get(i);
+        // }
+        //two-pointer
+        int  n=arr.length;
+        int zeroes=0;
         for(int i=0;i<n;i++){
-            l.add(arr[i]);
-            if(arr[i]==0){
-                l.add(0);
-            }
+            if(arr[i]==0) zeroes++;
         }
-        for(int i=0;i<n;i++){
-            arr[i]=l.get(i);
+        int last_i=n-1;
+        int new_i=n-1+zeroes;
+        while(last_i>=0){
+            if(new_i<n){
+                arr[new_i]=arr[last_i];
+            }
+            if(arr[last_i]==0){
+                new_i--;
+                if(new_i<n) arr[new_i]=0;
+            }
+            last_i--;
+            new_i--;
         }
     }
 }
