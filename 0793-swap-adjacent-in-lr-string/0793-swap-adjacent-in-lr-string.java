@@ -2,7 +2,7 @@ class Solution {
     public boolean canTransform(String start, String result) {
         int p1=0,p2=0;
         int n=start.length();
-        while(p1<=n && p2<=n){
+        while(p1<n || p2<n){
             while(p1<n && start.charAt(p1)=='X') p1++;
             while(p2<n && result.charAt(p2)=='X') p2++;
             if(p1==n && p2==n) return true;
@@ -16,7 +16,7 @@ class Solution {
             p2++;
             
         }
-        return true;
+        return p1==p2;
 
     }
 }
