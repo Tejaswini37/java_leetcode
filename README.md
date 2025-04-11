@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tejaswini37/java_leetcode/tree/master/0402-remove-k-digits) |
+| [0696-count-binary-substrings](https://github.com/Tejaswini37/java_leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Tejaswini37/java_leetcode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 ## Stack
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Tejaswini37/java_leetcode/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/Tejaswini37/java_leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Tejaswini37/java_leetcode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Tejaswini37/java_leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
