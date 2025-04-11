@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Tejaswini37/java_leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Tejaswini37/java_leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Tejaswini37/java_leetcode/tree/master/1168-duplicate-zeros) |
 | [1185-find-in-mountain-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1185-find-in-mountain-array) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Tejaswini37/java_leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Tejaswini37/java_leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Tejaswini37/java_leetcode/tree/master/1168-duplicate-zeros) |
 ## Sorting
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/Tejaswini37/java_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Tejaswini37/java_leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Enumeration
