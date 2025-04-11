@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/Tejaswini37/java_leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1080-camelcase-matching](https://github.com/Tejaswini37/java_leetcode/tree/master/1080-camelcase-matching) |
 | [1168-duplicate-zeros](https://github.com/Tejaswini37/java_leetcode/tree/master/1168-duplicate-zeros) |
 | [1185-find-in-mountain-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1185-find-in-mountain-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tejaswini37/java_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Tejaswini37/java_leetcode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0953-reverse-only-letters](https://github.com/Tejaswini37/java_leetcode/tree/master/0953-reverse-only-letters) |
+| [1080-camelcase-matching](https://github.com/Tejaswini37/java_leetcode/tree/master/1080-camelcase-matching) |
 ## Stack
 |  |
 | ------- |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-reverse-only-letters](https://github.com/Tejaswini37/java_leetcode/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1080-camelcase-matching](https://github.com/Tejaswini37/java_leetcode/tree/master/1080-camelcase-matching) |
 | [1168-duplicate-zeros](https://github.com/Tejaswini37/java_leetcode/tree/master/1168-duplicate-zeros) |
 ## Sorting
 |  |
@@ -154,4 +157,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Tejaswini37/java_leetcode/tree/master/0658-find-k-closest-elements) |
+## Trie
+|  |
+| ------- |
+| [1080-camelcase-matching](https://github.com/Tejaswini37/java_leetcode/tree/master/1080-camelcase-matching) |
+## String Matching
+|  |
+| ------- |
+| [1080-camelcase-matching](https://github.com/Tejaswini37/java_leetcode/tree/master/1080-camelcase-matching) |
 <!---LeetCode Topics End-->
