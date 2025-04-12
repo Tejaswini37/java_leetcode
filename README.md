@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tejaswini37/java_leetcode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Tejaswini37/java_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/Tejaswini37/java_leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Tejaswini37/java_leetcode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Tejaswini37/java_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Tejaswini37/java_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tejaswini37/java_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Tejaswini37/java_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/Tejaswini37/java_leetcode/tree/master/0768-partition-labels) |
 | [0959-3sum-with-multiplicity](https://github.com/Tejaswini37/java_leetcode/tree/master/0959-3sum-with-multiplicity) |
