@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/Tejaswini37/java_leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/Tejaswini37/java_leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1080-camelcase-matching](https://github.com/Tejaswini37/java_leetcode/tree/master/1080-camelcase-matching) |
 | [1168-duplicate-zeros](https://github.com/Tejaswini37/java_leetcode/tree/master/1168-duplicate-zeros) |
@@ -65,12 +66,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Tejaswini37/java_leetcode/tree/master/0658-find-k-closest-elements) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tejaswini37/java_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tejaswini37/java_leetcode/tree/master/0238-product-of-array-except-self) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tejaswini37/java_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
@@ -133,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/Tejaswini37/java_leetcode/tree/master/0768-partition-labels) |
 | [0959-3sum-with-multiplicity](https://github.com/Tejaswini37/java_leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [0966-binary-subarrays-with-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Counting
 |  |
 | ------- |
