@@ -3,12 +3,12 @@ class Solution {
         int c=0;
         int i=0,j=0,sum=0;
         while(j<nums.length){
-            if(i<=j &&sum+nums[j]>k){
+            sum+=nums[j];
+            while(i<=j &&sum>k){
                 sum-=nums[i];
                 i++;
-                continue;
             }
-            sum+=nums[j];
+          
             c+=(j-i+1);
             j++;
         }
