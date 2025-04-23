@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tejaswini37/java_leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Tejaswini37/java_leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Tejaswini37/java_leetcode/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/Tejaswini37/java_leetcode/tree/master/0135-candy) |
 | [0229-majority-element-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0229-majority-element-ii) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Tejaswini37/java_leetcode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Tejaswini37/java_leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswini37/java_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
