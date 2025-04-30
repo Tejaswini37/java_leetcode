@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-reverse-only-letters](https://github.com/Tejaswini37/java_leetcode/tree/master/0953-reverse-only-letters) |
 | [1080-camelcase-matching](https://github.com/Tejaswini37/java_leetcode/tree/master/1080-camelcase-matching) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Tejaswini37/java_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1080-camelcase-matching](https://github.com/Tejaswini37/java_leetcode/tree/master/1080-camelcase-matching) |
 | [1168-duplicate-zeros](https://github.com/Tejaswini37/java_leetcode/tree/master/1168-duplicate-zeros) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
