@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Tejaswini37/java_leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1524-string-matching-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tejaswini37/java_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Tejaswini37/java_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
