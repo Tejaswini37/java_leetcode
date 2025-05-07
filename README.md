@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tejaswini37/java_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Tejaswini37/java_leetcode/tree/master/0049-group-anagrams) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tejaswini37/java_leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tejaswini37/java_leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Tejaswini37/java_leetcode/tree/master/0135-candy) |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tejaswini37/java_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0015-3sum) |
 | [0392-is-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Tejaswini37/java_leetcode/tree/master/0455-assign-cookies) |
