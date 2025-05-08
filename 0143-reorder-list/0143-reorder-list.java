@@ -21,6 +21,7 @@ class Solution {
         return prev;
     }
     public void reorderList(ListNode head) {
+        if(head==null || head.next==null) return;
         ListNode slow=head;
         ListNode fast=head;
         while(fast!=null && fast.next!=null){
