@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Tejaswini37/java_leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tejaswini37/java_leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Tejaswini37/java_leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Tejaswini37/java_leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Tejaswini37/java_leetcode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswini37/java_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0856-consecutive-numbers-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0856-consecutive-numbers-sum) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Tejaswini37/java_leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tejaswini37/java_leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Tejaswini37/java_leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Tejaswini37/java_leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Tejaswini37/java_leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0322-coin-change) |
@@ -361,4 +363,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tejaswini37/java_leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tejaswini37/java_leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
