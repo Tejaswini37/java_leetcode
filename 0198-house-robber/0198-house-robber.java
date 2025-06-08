@@ -12,7 +12,7 @@ class Solution {
         int dp[]=new int[nums.length];
         Arrays.fill(dp,-1);
         dp[0]=nums[0];
-        //dp[1]=nums[1];
+        //dp[1]=nums[1]; constraints  min length of array=1 can't take dp[1]
         for(int i=1;i<nums.length;i++){
             //dp[i]=Math.max(dp[i-1],dp[i-2]+nums[i]);
             int p=nums[i];
