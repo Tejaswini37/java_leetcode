@@ -7,9 +7,12 @@ class Solution {
             for(int j=0;j<n;j++){
                 if(i==0 && j==0) dp[i][j]=grid[0][0];
                 else{
-                    int up=(int) Math.pow(10,9);
+                    int up = Integer.MAX_VALUE;
+                    int left = Integer.MAX_VALUE;
+
+                    // int up=(int) Math.pow(10,9);
                     if(i>0) up=dp[i-1][j];
-                    int left=(int) Math.pow(10,9);
+                    // int left=(int) Math.pow(10,9);
                     if(j>0) left=dp[i][j-1];
                     dp[i][j]=grid[i][j]+Math.min(up,left);
                 }
