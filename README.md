@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/Tejaswini37/java_leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Tejaswini37/java_leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Tejaswini37/java_leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Tejaswini37/java_leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Tejaswini37/java_leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0494-target-sum) |
 ## Counting Sort
 |  |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Tejaswini37/java_leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Tejaswini37/java_leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
