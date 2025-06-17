@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tejaswini37/java_leetcode/tree/master/0079-word-search) |
+| [0332-reconstruct-itinerary](https://github.com/Tejaswini37/java_leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -456,4 +457,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Tejaswini37/java_leetcode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Tejaswini37/java_leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
