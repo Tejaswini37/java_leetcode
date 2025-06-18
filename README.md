@@ -311,12 +311,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tejaswini37/java_leetcode/tree/master/0079-word-search) |
 | [0332-reconstruct-itinerary](https://github.com/Tejaswini37/java_leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0572-subtree-of-another-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Heap (Priority Queue)
 |  |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1080-camelcase-matching](https://github.com/Tejaswini37/java_leetcode/tree/master/1080-camelcase-matching) |
 | [1524-string-matching-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Dynamic Programming
@@ -488,4 +492,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tejaswini37/java_leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
