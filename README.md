@@ -528,5 +528,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Tejaswini37/java_leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Tejaswini37/java_leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/Tejaswini37/java_leetcode/tree/master/1942-primary-department-for-each-employee) |
+| [2057-count-salary-categories](https://github.com/Tejaswini37/java_leetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Tejaswini37/java_leetcode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
