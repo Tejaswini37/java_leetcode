@@ -1,9 +1,8 @@
 # Write your MySQL query statement below
 
 select * from users
-where regexp_like(mail,'^[a-zA-Z][a-zA-Z0-9._-]*@leetcode\\.com$','c')
-
-;
+where regexp_like(mail,'^[a-zA-Z][a-zA-Z0-9._-]*@leetcode\\.com$','c');
+-- 'c' → Enables case-sensitive matching ('i' would make it case-insensitive).
 
 -- com  COM
 -- select * from users
