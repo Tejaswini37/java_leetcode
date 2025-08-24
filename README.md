@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tejaswini37/java_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Tejaswini37/java_leetcode/tree/master/0042-trapping-rain-water) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Tejaswini37/java_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Tejaswini37/java_leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
