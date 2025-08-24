@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Tejaswini37/java_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Tejaswini37/java_leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tejaswini37/java_leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Tejaswini37/java_leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Tejaswini37/java_leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Tejaswini37/java_leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Tejaswini37/java_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0143-reorder-list) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Tejaswini37/java_leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Tejaswini37/java_leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Tejaswini37/java_leetcode/tree/master/0435-non-overlapping-intervals) |
