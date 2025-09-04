@@ -19,6 +19,7 @@ class Solution {
                     while(temp.get(w)>mp.get(w)){
                         String leftWord=s.substring(l,l+wordLen);
                         temp.put(leftWord,temp.get(leftWord)-1);
+                        if (temp.get(leftWord) == 0) temp.remove(leftWord);
                         l+=wordLen;
                         c--;
                     }
