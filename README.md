@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Tejaswini37/java_leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Tejaswini37/java_leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Tejaswini37/java_leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Tejaswini37/java_leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Tejaswini37/java_leetcode/tree/master/0402-remove-k-digits) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tejaswini37/java_leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Tejaswini37/java_leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tejaswini37/java_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Tejaswini37/java_leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tejaswini37/java_leetcode/tree/master/0424-longest-repeating-character-replacement) |
