@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/Tejaswini37/java_leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Tejaswini37/java_leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Tejaswini37/java_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Tejaswini37/java_leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tejaswini37/java_leetcode/tree/master/0079-word-search) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/Tejaswini37/java_leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Tejaswini37/java_leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Tejaswini37/java_leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Tejaswini37/java_leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Tejaswini37/java_leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Tejaswini37/java_leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Tejaswini37/java_leetcode/tree/master/0079-word-search) |
@@ -603,4 +605,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tejaswini37/java_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Tejaswini37/java_leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
