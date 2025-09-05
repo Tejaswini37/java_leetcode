@@ -22,6 +22,20 @@ class Solution {
     }
 }
 
+// Case 1 (for-each loop):
+
+// x is just a copy of the array element.
+
+// When we do x = "", it doesn’t touch the original array.
+
+// So arr1[i] stays null.
+
+// Case 2 (normal for loop):
+
+// We directly assign arr2[i] = "".
+
+// Now each slot in the array contains a real empty string.
+
 // class Solution {
 //     public String convert(String s, int numRows) {
 //         //create array of string of length numRows
