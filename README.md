@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Tejaswini37/java_leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0088-merge-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tejaswini37/java_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Tejaswini37/java_leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejaswini37/java_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Tejaswini37/java_leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Tejaswini37/java_leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Tejaswini37/java_leetcode/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tejaswini37/java_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tejaswini37/java_leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Tejaswini37/java_leetcode/tree/master/0139-word-break) |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tejaswini37/java_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -428,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tejaswini37/java_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -541,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tejaswini37/java_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Tejaswini37/java_leetcode/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tejaswini37/java_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Tejaswini37/java_leetcode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
