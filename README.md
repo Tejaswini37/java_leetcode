@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Tejaswini37/java_leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Tejaswini37/java_leetcode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tejaswini37/java_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Tejaswini37/java_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejaswini37/java_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Tejaswini37/java_leetcode/tree/master/0169-majority-element) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Tejaswini37/java_leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Tejaswini37/java_leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tejaswini37/java_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Tejaswini37/java_leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Tejaswini37/java_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0234-palindrome-linked-list) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0060-permutation-sequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Tejaswini37/java_leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Tejaswini37/java_leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tejaswini37/java_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tejaswini37/java_leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tejaswini37/java_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
