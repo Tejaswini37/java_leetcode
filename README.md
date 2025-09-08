@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Tejaswini37/java_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Tejaswini37/java_leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Tejaswini37/java_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/Tejaswini37/java_leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Tejaswini37/java_leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Tejaswini37/java_leetcode/tree/master/0290-word-pattern) |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Tejaswini37/java_leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Tejaswini37/java_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Tejaswini37/java_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0332-reconstruct-itinerary](https://github.com/Tejaswini37/java_leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tejaswini37/java_leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Tejaswini37/java_leetcode/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Tejaswini37/java_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1080-camelcase-matching](https://github.com/Tejaswini37/java_leetcode/tree/master/1080-camelcase-matching) |
 ## String Matching
 |  |
@@ -619,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Tejaswini37/java_leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Tejaswini37/java_leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Tejaswini37/java_leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Tejaswini37/java_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Tejaswini37/java_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tejaswini37/java_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
