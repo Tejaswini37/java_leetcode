@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Tejaswini37/java_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Tejaswini37/java_leetcode/tree/master/0941-sort-array-by-parity) |
+| [0945-snakes-and-ladders](https://github.com/Tejaswini37/java_leetcode/tree/master/0945-snakes-and-ladders) |
 | [0958-sort-array-by-parity-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/Tejaswini37/java_leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0965-unique-email-addresses](https://github.com/Tejaswini37/java_leetcode/tree/master/0965-unique-email-addresses) |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Tejaswini37/java_leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0945-snakes-and-ladders](https://github.com/Tejaswini37/java_leetcode/tree/master/0945-snakes-and-ladders) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -645,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Tejaswini37/java_leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Tejaswini37/java_leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Tejaswini37/java_leetcode/tree/master/0289-game-of-life) |
+| [0945-snakes-and-ladders](https://github.com/Tejaswini37/java_leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tejaswini37/java_leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Indexed Tree
