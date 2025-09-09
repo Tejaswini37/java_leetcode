@@ -85,3 +85,16 @@ class Solution {
 //         return 0.0; // should never reach here
 //     }
 // }
+
+
+// cut1 → how many elements taken from nums1 into the left partition
+
+// cut2 → how many elements taken from nums2 into the left partition
+
+// left1 → last element on the left side of nums1 partition
+
+// right1 → first element on the right side of nums1 partition
+
+// left2 → last element on the left side of nums2 partition
+
+// right2 → first element on the right side of nums2 partition
