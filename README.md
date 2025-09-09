@@ -619,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Tejaswini37/java_leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Tejaswini37/java_leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Tejaswini37/java_leetcode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -643,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/Tejaswini37/java_leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Tejaswini37/java_leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Tejaswini37/java_leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Tejaswini37/java_leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Tejaswini37/java_leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
