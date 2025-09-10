@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Tejaswini37/java_leetcode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/Tejaswini37/java_leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Tejaswini37/java_leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Tejaswini37/java_leetcode/tree/master/0238-product-of-array-except-self) |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Tejaswini37/java_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Tejaswini37/java_leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Tejaswini37/java_leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Tejaswini37/java_leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0392-is-subsequence) |
@@ -689,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Tejaswini37/java_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Tejaswini37/java_leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Tejaswini37/java_leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Tejaswini37/java_leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Tejaswini37/java_leetcode/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/Tejaswini37/java_leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0967-minimum-falling-path-sum) |
