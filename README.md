@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tejaswini37/java_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2428-equal-row-and-column-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tejaswini37/java_leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/Tejaswini37/java_leetcode/tree/master/1129-longest-string-chain) |
 | [1297-maximum-number-of-balloons](https://github.com/Tejaswini37/java_leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Tejaswini37/java_leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [2428-equal-row-and-column-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tejaswini37/java_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -711,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/Tejaswini37/java_leetcode/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/Tejaswini37/java_leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [2428-equal-row-and-column-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tejaswini37/java_leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Indexed Tree
 |  |
@@ -789,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Tejaswini37/java_leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Tejaswini37/java_leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Tejaswini37/java_leetcode/tree/master/0289-game-of-life) |
+| [2428-equal-row-and-column-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Union Find
 |  |
 | ------- |
