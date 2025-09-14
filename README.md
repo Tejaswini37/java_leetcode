@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tejaswini37/java_leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tejaswini37/java_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1833-find-the-highest-altitude](https://github.com/Tejaswini37/java_leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2428-equal-row-and-column-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Tejaswini37/java_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tejaswini37/java_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1833-find-the-highest-altitude](https://github.com/Tejaswini37/java_leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
