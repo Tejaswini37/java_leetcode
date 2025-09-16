@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Tejaswini37/java_leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tejaswini37/java_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1168-duplicate-zeros](https://github.com/Tejaswini37/java_leetcode/tree/master/1168-duplicate-zeros) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Tejaswini37/java_leetcode/tree/master/1894-merge-strings-alternately) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
@@ -684,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
