@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0649-dota2-senate](https://github.com/Tejaswini37/java_leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Tejaswini37/java_leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Tejaswini37/java_leetcode/tree/master/0768-partition-labels) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tejaswini37/java_leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Tejaswini37/java_leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Tejaswini37/java_leetcode/tree/master/0502-ipo) |
+| [0649-dota2-senate](https://github.com/Tejaswini37/java_leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Tejaswini37/java_leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tejaswini37/java_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -657,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tejaswini37/java_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Tejaswini37/java_leetcode/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/Tejaswini37/java_leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Tejaswini37/java_leetcode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
