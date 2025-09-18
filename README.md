@@ -499,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Tejaswini37/java_leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Tejaswini37/java_leetcode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Tejaswini37/java_leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Tejaswini37/java_leetcode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -577,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Tejaswini37/java_leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Tejaswini37/java_leetcode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -648,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-shortest-common-supersequence](https://github.com/Tejaswini37/java_leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tejaswini37/java_leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Backtracking
