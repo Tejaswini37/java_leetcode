@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Tejaswini37/java_leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Tejaswini37/java_leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Tejaswini37/java_leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Tejaswini37/java_leetcode/tree/master/0049-group-anagrams) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Tejaswini37/java_leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tejaswini37/java_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Tejaswini37/java_leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Tejaswini37/java_leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Tejaswini37/java_leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Tejaswini37/java_leetcode/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tejaswini37/java_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
