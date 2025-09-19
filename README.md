@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Tejaswini37/java_leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Tejaswini37/java_leetcode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Tejaswini37/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswini37/java_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Tejaswini37/java_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tejaswini37/java_leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Tejaswini37/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tejaswini37/java_leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Tejaswini37/java_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -471,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Tejaswini37/java_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Tejaswini37/java_leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/Tejaswini37/java_leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Tejaswini37/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/Tejaswini37/java_leetcode/tree/master/0768-partition-labels) |
