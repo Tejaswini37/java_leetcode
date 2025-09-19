@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Tejaswini37/java_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Tejaswini37/java_leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Tejaswini37/java_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Tejaswini37/java_leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tejaswini37/java_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tejaswini37/java_leetcode/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Tejaswini37/java_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejaswini37/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tejaswini37/java_leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -783,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tejaswini37/java_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Tejaswini37/java_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Tejaswini37/java_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tejaswini37/java_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Tejaswini37/java_leetcode/tree/master/0816-design-hashset) |
@@ -824,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Tejaswini37/java_leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Tejaswini37/java_leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Tejaswini37/java_leetcode/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Tejaswini37/java_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0945-snakes-and-ladders](https://github.com/Tejaswini37/java_leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Tejaswini37/java_leetcode/tree/master/1036-rotting-oranges) |
