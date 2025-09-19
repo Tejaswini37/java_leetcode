@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Tejaswini37/java_leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Tejaswini37/java_leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tejaswini37/java_leetcode/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/Tejaswini37/java_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Tejaswini37/java_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tejaswini37/java_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Tejaswini37/java_leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -675,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0747-min-cost-climbing-stairs](https://github.com/Tejaswini37/java_leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/Tejaswini37/java_leetcode/tree/master/1129-longest-string-chain) |
