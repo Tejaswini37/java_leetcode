@@ -5,6 +5,6 @@ class Solution {
             if(n<=9) sd+=n;
             else dd+=n;
         }
-        return Math.abs(sd-dd)!=0;
+        return sd==dd?false:true;
     }
 }
