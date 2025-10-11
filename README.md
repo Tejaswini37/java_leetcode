@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Tejaswini37/java_leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/2873-prime-pairs-with-target-sum) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Tejaswini37/java_leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
