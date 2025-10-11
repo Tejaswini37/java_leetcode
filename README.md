@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejaswini37/java_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Tejaswini37/java_leetcode/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Tejaswini37/java_leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2470-removing-stars-from-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2636-maximum-subsequence-score](https://github.com/Tejaswini37/java_leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Monotonic Stack
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-consecutive-numbers-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Tejaswini37/java_leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/3462-vowels-game-in-a-string) |
