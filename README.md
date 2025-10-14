@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tejaswini37/java_leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Tejaswini37/java_leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Tejaswini37/java_leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Tejaswini37/java_leetcode/tree/master/0282-expression-add-operators) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tejaswini37/java_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswini37/java_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Tejaswini37/java_leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Tejaswini37/java_leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0394-decode-string) |
 ## Two Pointers
@@ -843,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/Tejaswini37/java_leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Tejaswini37/java_leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Tejaswini37/java_leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Tejaswini37/java_leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Tejaswini37/java_leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
