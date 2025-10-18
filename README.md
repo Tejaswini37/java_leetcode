@@ -519,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Tejaswini37/java_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Tejaswini37/java_leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/Tejaswini37/java_leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Tejaswini37/java_leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejaswini37/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0567-permutation-in-string) |
@@ -805,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/Tejaswini37/java_leetcode/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/Tejaswini37/java_leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tejaswini37/java_leetcode/tree/master/0817-design-hashmap) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -837,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tejaswini37/java_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tejaswini37/java_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/Tejaswini37/java_leetcode/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Tejaswini37/java_leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tejaswini37/java_leetcode/tree/master/0817-design-hashmap) |
@@ -847,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Tejaswini37/java_leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Tejaswini37/java_leetcode/tree/master/0460-lfu-cache) |
 ## Bit Manipulation
 |  |
 | ------- |
