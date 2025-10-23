@@ -25,7 +25,7 @@ class Solution {
             LinkedList<Integer> level=new LinkedList<>();
             for(int i=0;i<size;i++){
                 TreeNode cur=q.poll();
-                int idx=leftToRight?i:(size-i-1);
+                // int idx=leftToRight?i:(size-i-1);
                 if(leftToRight)
                 level.addLast(cur.val);
                 else level.addFirst(cur.val);
