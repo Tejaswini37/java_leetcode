@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Tejaswini37/java_leetcode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Tejaswini37/java_leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Tejaswini37/java_leetcode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Tejaswini37/java_leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -582,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/Tejaswini37/java_leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Tejaswini37/java_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Tejaswini37/java_leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -612,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Tejaswini37/java_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tejaswini37/java_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Tejaswini37/java_leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -638,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Tejaswini37/java_leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Tejaswini37/java_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/Tejaswini37/java_leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -680,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/Tejaswini37/java_leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Tejaswini37/java_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Tejaswini37/java_leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -856,6 +861,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tejaswini37/java_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Tejaswini37/java_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tejaswini37/java_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tejaswini37/java_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Tejaswini37/java_leetcode/tree/master/0460-lfu-cache) |
