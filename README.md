@@ -626,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Tejaswini37/java_leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Tejaswini37/java_leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Tejaswini37/java_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Tejaswini37/java_leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Tejaswini37/java_leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -654,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tejaswini37/java_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Tejaswini37/java_leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Tejaswini37/java_leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Tejaswini37/java_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Tejaswini37/java_leetcode/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/Tejaswini37/java_leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Tejaswini37/java_leetcode/tree/master/1036-rotting-oranges) |
@@ -942,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Tejaswini37/java_leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0801-is-graph-bipartite](https://github.com/Tejaswini37/java_leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Tejaswini37/java_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Tejaswini37/java_leetcode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tejaswini37/java_leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tejaswini37/java_leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -960,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/Tejaswini37/java_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Tejaswini37/java_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tejaswini37/java_leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Function
 |  |
