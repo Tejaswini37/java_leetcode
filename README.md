@@ -630,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/Tejaswini37/java_leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Tejaswini37/java_leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/Tejaswini37/java_leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tejaswini37/java_leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -949,6 +950,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Tejaswini37/java_leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Tejaswini37/java_leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Tejaswini37/java_leetcode/tree/master/0871-keys-and-rooms) |
+| [1300-critical-connections-in-a-network](https://github.com/Tejaswini37/java_leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tejaswini37/java_leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tejaswini37/java_leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tejaswini37/java_leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -1063,4 +1065,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tejaswini37/java_leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Tejaswini37/java_leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
