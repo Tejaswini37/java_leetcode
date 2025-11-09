@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/Tejaswini37/java_leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/Tejaswini37/java_leetcode/tree/master/3312-number-of-changing-keys) |
 | [3462-vowels-game-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tejaswini37/java_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/Tejaswini37/java_leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Tejaswini37/java_leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tejaswini37/java_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -564,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0959-3sum-with-multiplicity](https://github.com/Tejaswini37/java_leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tejaswini37/java_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1297-maximum-number-of-balloons](https://github.com/Tejaswini37/java_leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tejaswini37/java_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
