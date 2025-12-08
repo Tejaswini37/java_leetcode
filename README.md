@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Tejaswini37/java_leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tejaswini37/java_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1925-count-square-sum-triples](https://github.com/Tejaswini37/java_leetcode/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1925-count-square-sum-triples](https://github.com/Tejaswini37/java_leetcode/tree/master/1925-count-square-sum-triples) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 ## Number Theory
 |  |
