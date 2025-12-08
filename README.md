@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/Tejaswini37/java_leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Tejaswini37/java_leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Tejaswini37/java_leetcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Tejaswini37/java_leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejaswini37/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tejaswini37/java_leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Tejaswini37/java_leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Tejaswini37/java_leetcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Tejaswini37/java_leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswini37/java_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Tejaswini37/java_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Tejaswini37/java_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -732,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Tejaswini37/java_leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Tejaswini37/java_leetcode/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Tejaswini37/java_leetcode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Tejaswini37/java_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0948-sort-an-array) |
