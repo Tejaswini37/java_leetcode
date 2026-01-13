@@ -388,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/Tejaswini37/java_leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Tejaswini37/java_leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Tejaswini37/java_leetcode/tree/master/0282-expression-add-operators) |
+| [0343-integer-break](https://github.com/Tejaswini37/java_leetcode/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tejaswini37/java_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswini37/java_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0856-consecutive-numbers-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0856-consecutive-numbers-sum) |
@@ -817,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/Tejaswini37/java_leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Tejaswini37/java_leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Tejaswini37/java_leetcode/tree/master/0435-non-overlapping-intervals) |
