@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tejaswini37/java_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1701-average-waiting-time](https://github.com/Tejaswini37/java_leetcode/tree/master/1701-average-waiting-time) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Tejaswini37/java_leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -1137,6 +1138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/Tejaswini37/java_leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/Tejaswini37/java_leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Tejaswini37/java_leetcode/tree/master/0735-asteroid-collision) |
+| [1701-average-waiting-time](https://github.com/Tejaswini37/java_leetcode/tree/master/1701-average-waiting-time) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tejaswini37/java_leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2428-equal-row-and-column-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2470-removing-stars-from-a-string) |
