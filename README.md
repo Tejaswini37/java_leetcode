@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Tejaswini37/java_leetcode/tree/master/1406-stone-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tejaswini37/java_leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1436-destination-city](https://github.com/Tejaswini37/java_leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tejaswini37/java_leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Tejaswini37/java_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/Tejaswini37/java_leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Tejaswini37/java_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1436-destination-city](https://github.com/Tejaswini37/java_leetcode/tree/master/1436-destination-city) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tejaswini37/java_leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejaswini37/java_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -593,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/Tejaswini37/java_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tejaswini37/java_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1436-destination-city](https://github.com/Tejaswini37/java_leetcode/tree/master/1436-destination-city) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejaswini37/java_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
