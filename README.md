@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/Tejaswini37/java_leetcode/tree/master/0817-design-hashmap) |
 | [0877-stone-game](https://github.com/Tejaswini37/java_leetcode/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0890-lemonade-change) |
+| [0912-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Tejaswini37/java_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Tejaswini37/java_leetcode/tree/master/0941-sort-array-by-parity) |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Tejaswini37/java_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0767-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tejaswini37/java_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0912-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Tejaswini37/java_leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0948-sort-an-array) |
@@ -814,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Tejaswini37/java_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0767-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0948-sort-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Tejaswini37/java_leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Tejaswini37/java_leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -912,6 +915,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Tejaswini37/java_leetcode/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Tejaswini37/java_leetcode/tree/master/1137-height-checker) |
 ## Queue
@@ -964,11 +968,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/Tejaswini37/java_leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Tejaswini37/java_leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tejaswini37/java_leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0948-sort-an-array) |
 ## Design
 |  |
@@ -1169,10 +1175,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0948-sort-an-array) |
 ## Shortest Path
 |  |
