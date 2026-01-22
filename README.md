@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Tejaswini37/java_leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/Tejaswini37/java_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tejaswini37/java_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Tejaswini37/java_leetcode/tree/master/1406-stone-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tejaswini37/java_leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -580,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1297-maximum-number-of-balloons](https://github.com/Tejaswini37/java_leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Tejaswini37/java_leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tejaswini37/java_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejaswini37/java_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Tejaswini37/java_leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -599,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0959-3sum-with-multiplicity](https://github.com/Tejaswini37/java_leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tejaswini37/java_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1297-maximum-number-of-balloons](https://github.com/Tejaswini37/java_leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tejaswini37/java_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
