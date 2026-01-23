@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tejaswini37/java_leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1894-merge-strings-alternately](https://github.com/Tejaswini37/java_leetcode/tree/master/1894-merge-strings-alternately) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Tejaswini37/java_leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswini37/java_leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2032-largest-odd-number-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Tejaswini37/java_leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0895-maximum-frequency-stack](https://github.com/Tejaswini37/java_leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0943-sum-of-subarray-minimums](https://github.com/Tejaswini37/java_leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejaswini37/java_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswini37/java_leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/Tejaswini37/java_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswini37/java_leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -503,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1168-duplicate-zeros](https://github.com/Tejaswini37/java_leetcode/tree/master/1168-duplicate-zeros) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Tejaswini37/java_leetcode/tree/master/1894-merge-strings-alternately) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswini37/java_leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Tejaswini37/java_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
