@@ -8,8 +8,8 @@ class Solution {
             sum+=x;
             sum=(sum%k + k) % k; //handle negatives
             
-            if(hm.containsKey(sum)) ans+=hm.get(sum);
-
+            // if(hm.containsKey(sum)) ans+=hm.get(sum);
+            ans += hm.getOrDefault(sum, 0);
             hm.put(sum,hm.getOrDefault(sum,0)+1);
         }
         return ans;
