@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/Tejaswini37/java_leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Tejaswini37/java_leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejaswini37/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Tejaswini37/java_leetcode/tree/master/0622-design-circular-queue) |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Tejaswini37/java_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Tejaswini37/java_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tejaswini37/java_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0525-contiguous-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejaswini37/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tejaswini37/java_leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -614,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Tejaswini37/java_leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Tejaswini37/java_leetcode/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Tejaswini37/java_leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Tejaswini37/java_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0567-permutation-in-string) |
