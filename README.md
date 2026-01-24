@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2873-prime-pairs-with-target-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Tejaswini37/java_leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Tejaswini37/java_leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Tejaswini37/java_leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3151-special-array-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3151-special-array-i) |
 | [3194-find-words-containing-character](https://github.com/Tejaswini37/java_leetcode/tree/master/3194-find-words-containing-character) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2636-maximum-subsequence-score](https://github.com/Tejaswini37/java_leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Tejaswini37/java_leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Tejaswini37/java_leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/Tejaswini37/java_leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2017-grid-game](https://github.com/Tejaswini37/java_leetcode/tree/master/2017-grid-game) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Tejaswini37/java_leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Math
 |  |
 | ------- |
@@ -558,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2780-minimum-index-of-a-valid-split](https://github.com/Tejaswini37/java_leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2887-sort-vowels-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Tejaswini37/java_leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Tejaswini37/java_leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3226-minimum-number-game](https://github.com/Tejaswini37/java_leetcode/tree/master/3226-minimum-number-game) |
 ## Enumeration
 |  |
