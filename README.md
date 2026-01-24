@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/Tejaswini37/java_leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2707-extra-characters-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Tejaswini37/java_leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Tejaswini37/java_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Tejaswini37/java_leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Tejaswini37/java_leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2636-maximum-subsequence-score](https://github.com/Tejaswini37/java_leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Tejaswini37/java_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Tejaswini37/java_leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Tejaswini37/java_leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Monotonic Stack
@@ -653,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Tejaswini37/java_leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2707-extra-characters-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Tejaswini37/java_leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Tejaswini37/java_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tejaswini37/java_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -671,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Tejaswini37/java_leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Tejaswini37/java_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tejaswini37/java_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
