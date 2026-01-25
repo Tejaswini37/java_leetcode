@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tejaswini37/java_leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejaswini37/java_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Tejaswini37/java_leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Tejaswini37/java_leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tejaswini37/java_leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1894-merge-strings-alternately](https://github.com/Tejaswini37/java_leetcode/tree/master/1894-merge-strings-alternately) |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/Tejaswini37/java_leetcode/tree/master/1129-longest-string-chain) |
 | [1168-duplicate-zeros](https://github.com/Tejaswini37/java_leetcode/tree/master/1168-duplicate-zeros) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Tejaswini37/java_leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Tejaswini37/java_leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Tejaswini37/java_leetcode/tree/master/1894-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswini37/java_leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
