@@ -11,7 +11,7 @@ class Solution {
             }
 
             // remove same char from right
-            while (l < r && s.charAt(r) == ch) {
+            while (l <= r && s.charAt(r) == ch) {
                 r--;
             }
         }
