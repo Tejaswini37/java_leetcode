@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Tejaswini37/java_leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tejaswini37/java_leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Tejaswini37/java_leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Tejaswini37/java_leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2636-maximum-subsequence-score](https://github.com/Tejaswini37/java_leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2707-extra-characters-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2707-extra-characters-in-a-string) |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswini37/java_leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Tejaswini37/java_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Tejaswini37/java_leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
@@ -571,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Tejaswini37/java_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Tejaswini37/java_leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2636-maximum-subsequence-score](https://github.com/Tejaswini37/java_leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Tejaswini37/java_leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2887-sort-vowels-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -666,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/Tejaswini37/java_leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Tejaswini37/java_leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Tejaswini37/java_leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Tejaswini37/java_leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2707-extra-characters-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Tejaswini37/java_leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
