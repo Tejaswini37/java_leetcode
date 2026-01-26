@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Tejaswini37/java_leetcode/tree/master/1406-stone-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tejaswini37/java_leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1436-destination-city](https://github.com/Tejaswini37/java_leetcode/tree/master/1436-destination-city) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tejaswini37/java_leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Tejaswini37/java_leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1512-number-of-good-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/Tejaswini37/java_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Tejaswini37/java_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tejaswini37/java_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tejaswini37/java_leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Tejaswini37/java_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tejaswini37/java_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejaswini37/java_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -884,6 +886,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejaswini37/java_leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0948-sort-an-array) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tejaswini37/java_leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Tejaswini37/java_leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Tejaswini37/java_leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2636-maximum-subsequence-score](https://github.com/Tejaswini37/java_leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -993,11 +996,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0622-design-circular-queue](https://github.com/Tejaswini37/java_leetcode/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Tejaswini37/java_leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Tejaswini37/java_leetcode/tree/master/0969-number-of-recent-calls) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tejaswini37/java_leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tejaswini37/java_leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Tejaswini37/java_leetcode/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tejaswini37/java_leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Linked List
 |  |
 | ------- |
@@ -1240,6 +1245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Tejaswini37/java_leetcode/tree/master/0895-maximum-frequency-stack) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tejaswini37/java_leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Tejaswini37/java_leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Tejaswini37/java_leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Bucket Sort
