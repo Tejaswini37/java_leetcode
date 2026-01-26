@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/Tejaswini37/java_leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Tejaswini37/java_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3226-minimum-number-game](https://github.com/Tejaswini37/java_leetcode/tree/master/3226-minimum-number-game) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Tejaswini37/java_leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tejaswini37/java_leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Tejaswini37/java_leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1652-defuse-the-bomb](https://github.com/Tejaswini37/java_leetcode/tree/master/1652-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Tejaswini37/java_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
