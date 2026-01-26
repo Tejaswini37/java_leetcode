@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tejaswini37/java_leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tejaswini37/java_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/Tejaswini37/java_leetcode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tejaswini37/java_leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1701-average-waiting-time](https://github.com/Tejaswini37/java_leetcode/tree/master/1701-average-waiting-time) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tejaswini37/java_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejaswini37/java_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/Tejaswini37/java_leetcode/tree/master/1652-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Tejaswini37/java_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
