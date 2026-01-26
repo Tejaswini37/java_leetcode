@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Tejaswini37/java_leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1436-destination-city](https://github.com/Tejaswini37/java_leetcode/tree/master/1436-destination-city) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tejaswini37/java_leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tejaswini37/java_leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Tejaswini37/java_leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1512-number-of-good-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/Tejaswini37/java_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0895-maximum-frequency-stack](https://github.com/Tejaswini37/java_leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0943-sum-of-subarray-minimums](https://github.com/Tejaswini37/java_leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tejaswini37/java_leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/Tejaswini37/java_leetcode/tree/master/1598-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejaswini37/java_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswini37/java_leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Tejaswini37/java_leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tejaswini37/java_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/Tejaswini37/java_leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tejaswini37/java_leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
 |  |
 | ------- |
