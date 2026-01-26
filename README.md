@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Tejaswini37/java_leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Tejaswini37/java_leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1598-crawler-log-folder](https://github.com/Tejaswini37/java_leetcode/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/Tejaswini37/java_leetcode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tejaswini37/java_leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-path-crossing](https://github.com/Tejaswini37/java_leetcode/tree/master/1496-path-crossing) |
 | [1524-string-matching-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tejaswini37/java_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1598-crawler-log-folder](https://github.com/Tejaswini37/java_leetcode/tree/master/1598-crawler-log-folder) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Tejaswini37/java_leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tejaswini37/java_leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/Tejaswini37/java_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0895-maximum-frequency-stack](https://github.com/Tejaswini37/java_leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0943-sum-of-subarray-minimums](https://github.com/Tejaswini37/java_leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1598-crawler-log-folder](https://github.com/Tejaswini37/java_leetcode/tree/master/1598-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tejaswini37/java_leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswini37/java_leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
