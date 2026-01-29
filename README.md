@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2876-number-of-employees-who-met-the-target](https://github.com/Tejaswini37/java_leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Tejaswini37/java_leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Tejaswini37/java_leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Tejaswini37/java_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3151-special-array-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3151-special-array-i) |
 | [3194-find-words-containing-character](https://github.com/Tejaswini37/java_leetcode/tree/master/3194-find-words-containing-character) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2707-extra-characters-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Tejaswini37/java_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/Tejaswini37/java_leetcode/tree/master/3194-find-words-containing-character) |
 | [3312-number-of-changing-keys](https://github.com/Tejaswini37/java_leetcode/tree/master/3312-number-of-changing-keys) |
@@ -1287,8 +1289,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tejaswini37/java_leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Tejaswini37/java_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Biconnected Component
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Tejaswini37/java_leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Tejaswini37/java_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
