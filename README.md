@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Tejaswini37/java_leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0816-design-hashset](https://github.com/Tejaswini37/java_leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tejaswini37/java_leetcode/tree/master/0817-design-hashmap) |
+| [0870-advantage-shuffle](https://github.com/Tejaswini37/java_leetcode/tree/master/0870-advantage-shuffle) |
 | [0877-stone-game](https://github.com/Tejaswini37/java_leetcode/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0890-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0912-sort-an-array) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0767-reorganize-string) |
 | [0768-partition-labels](https://github.com/Tejaswini37/java_leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tejaswini37/java_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0870-advantage-shuffle](https://github.com/Tejaswini37/java_leetcode/tree/master/0870-advantage-shuffle) |
 | [0890-lemonade-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswini37/java_leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -554,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Tejaswini37/java_leetcode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Tejaswini37/java_leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0870-advantage-shuffle](https://github.com/Tejaswini37/java_leetcode/tree/master/0870-advantage-shuffle) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Tejaswini37/java_leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Tejaswini37/java_leetcode/tree/master/0953-reverse-only-letters) |
@@ -599,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Tejaswini37/java_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0767-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Tejaswini37/java_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0870-advantage-shuffle](https://github.com/Tejaswini37/java_leetcode/tree/master/0870-advantage-shuffle) |
 | [0912-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Tejaswini37/java_leetcode/tree/master/0941-sort-array-by-parity) |
