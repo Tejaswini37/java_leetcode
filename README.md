@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Tejaswini37/java_leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Tejaswini37/java_leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Tejaswini37/java_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3151-special-array-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3151-special-array-i) |
 | [3194-find-words-containing-character](https://github.com/Tejaswini37/java_leetcode/tree/master/3194-find-words-containing-character) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tejaswini37/java_leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Tejaswini37/java_leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Tejaswini37/java_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
@@ -716,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-extra-characters-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Tejaswini37/java_leetcode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Tejaswini37/java_leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tejaswini37/java_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -914,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/Tejaswini37/java_leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Tejaswini37/java_leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2636-maximum-subsequence-score](https://github.com/Tejaswini37/java_leetcode/tree/master/2636-maximum-subsequence-score) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3226-minimum-number-game](https://github.com/Tejaswini37/java_leetcode/tree/master/3226-minimum-number-game) |
 ## Trie
 |  |
