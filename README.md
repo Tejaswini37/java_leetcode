@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Tejaswini37/java_leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Tejaswini37/java_leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3637-trionic-array-i](https://github.com/Tejaswini37/java_leetcode/tree/master/3637-trionic-array-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Tejaswini37/java_leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
