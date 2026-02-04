@@ -517,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Tejaswini37/java_leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Tejaswini37/java_leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Tejaswini37/java_leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Tejaswini37/java_leetcode/tree/master/0231-power-of-two) |
@@ -1055,6 +1056,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Tejaswini37/java_leetcode/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/Tejaswini37/java_leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0237-delete-node-in-a-linked-list) |
