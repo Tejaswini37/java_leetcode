@@ -793,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -835,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tejaswini37/java_leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -869,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Tejaswini37/java_leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tejaswini37/java_leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -920,6 +923,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
