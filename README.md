@@ -371,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2751-robot-collisions](https://github.com/Tejaswini37/java_leetcode/tree/master/2751-robot-collisions) |
 ## Greedy
 |  |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/Tejaswini37/java_leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/Tejaswini37/java_leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tejaswini37/java_leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Tejaswini37/java_leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0394-decode-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1069,6 +1072,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Tejaswini37/java_leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Tejaswini37/java_leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Tejaswini37/java_leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
