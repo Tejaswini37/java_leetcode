@@ -45,6 +45,7 @@ class Solution {
             if (visited[i]) continue;
 
             // 🔥 duplicate skip condition
+            // “Don’t pick a duplicate unless its previous copy is already used.”
             if (i > 0 && nums[i] == nums[i - 1] && !visited[i - 1]) {
                 continue;
             }
