@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Tejaswini37/java_leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Tejaswini37/java_leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tejaswini37/java_leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tejaswini37/java_leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1813-sentence-similarity-iii](https://github.com/Tejaswini37/java_leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1894-merge-strings-alternately](https://github.com/Tejaswini37/java_leetcode/tree/master/1894-merge-strings-alternately) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Tejaswini37/java_leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -728,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Tejaswini37/java_leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tejaswini37/java_leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Tejaswini37/java_leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -758,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Tejaswini37/java_leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Tejaswini37/java_leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2364-count-number-of-bad-pairs) |
