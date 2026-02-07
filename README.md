@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-sentence-similarity-iii](https://github.com/Tejaswini37/java_leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Tejaswini37/java_leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Tejaswini37/java_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/Tejaswini37/java_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Tejaswini37/java_leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1512-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Tejaswini37/java_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Tejaswini37/java_leetcode/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -642,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Tejaswini37/java_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Tejaswini37/java_leetcode/tree/master/1925-count-square-sum-triples) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 ## Number Theory
@@ -1038,6 +1041,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/Tejaswini37/java_leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Tejaswini37/java_leetcode/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0494-target-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Tejaswini37/java_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1155,6 +1159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Tejaswini37/java_leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Tejaswini37/java_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Tejaswini37/java_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Tejaswini37/java_leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Memoization
 |  |
@@ -1166,6 +1171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Tejaswini37/java_leetcode/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Tejaswini37/java_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
