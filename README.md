@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Tejaswini37/java_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tejaswini37/java_leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Tejaswini37/java_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Tejaswini37/java_leetcode/tree/master/1652-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tejaswini37/java_leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Tejaswini37/java_leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
