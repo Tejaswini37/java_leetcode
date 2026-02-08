@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2707-extra-characters-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Tejaswini37/java_leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Tejaswini37/java_leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/Tejaswini37/java_leetcode/tree/master/3194-find-words-containing-character) |
