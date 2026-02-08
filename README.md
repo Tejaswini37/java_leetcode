@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tejaswini37/java_leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1701-average-waiting-time](https://github.com/Tejaswini37/java_leetcode/tree/master/1701-average-waiting-time) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tejaswini37/java_leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Tejaswini37/java_leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Tejaswini37/java_leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -1033,6 +1034,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tejaswini37/java_leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tejaswini37/java_leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2707-extra-characters-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
