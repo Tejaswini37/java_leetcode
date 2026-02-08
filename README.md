@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tejaswini37/java_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0978-longest-turbulent-subarray](https://github.com/Tejaswini37/java_leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1006-vowel-spellchecker](https://github.com/Tejaswini37/java_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tejaswini37/java_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Tejaswini37/java_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/Tejaswini37/java_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/Tejaswini37/java_leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tejaswini37/java_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Tejaswini37/java_leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Tejaswini37/java_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1025,6 +1027,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/Tejaswini37/java_leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Tejaswini37/java_leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/Tejaswini37/java_leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1129-longest-string-chain](https://github.com/Tejaswini37/java_leetcode/tree/master/1129-longest-string-chain) |
 | [1130-last-stone-weight-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/1130-last-stone-weight-ii) |
