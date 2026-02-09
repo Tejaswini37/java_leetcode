@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Tejaswini37/java_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Tejaswini37/java_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Tejaswini37/java_leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Tejaswini37/java_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Tejaswini37/java_leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswini37/java_leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -645,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Tejaswini37/java_leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Tejaswini37/java_leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Tejaswini37/java_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Tejaswini37/java_leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
