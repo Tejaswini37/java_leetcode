@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Tejaswini37/java_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Tejaswini37/java_leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2439-minimize-maximum-of-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tejaswini37/java_leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Tejaswini37/java_leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Tejaswini37/java_leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Tejaswini37/java_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Tejaswini37/java_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2439-minimize-maximum-of-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Tejaswini37/java_leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Interactive
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Tejaswini37/java_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2439-minimize-maximum-of-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2636-maximum-subsequence-score](https://github.com/Tejaswini37/java_leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -479,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/Tejaswini37/java_leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2017-grid-game](https://github.com/Tejaswini37/java_leetcode/tree/master/2017-grid-game) |
+| [2439-minimize-maximum-of-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Tejaswini37/java_leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Math
 |  |
@@ -1041,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tejaswini37/java_leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2439-minimize-maximum-of-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2707-extra-characters-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
