@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-longest-turbulent-subarray](https://github.com/Tejaswini37/java_leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1006-vowel-spellchecker](https://github.com/Tejaswini37/java_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Tejaswini37/java_leetcode/tree/master/1029-two-city-scheduling) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Tejaswini37/java_leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Tejaswini37/java_leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Tejaswini37/java_leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-advantage-shuffle](https://github.com/Tejaswini37/java_leetcode/tree/master/0870-advantage-shuffle) |
 | [0890-lemonade-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
+| [1029-two-city-scheduling](https://github.com/Tejaswini37/java_leetcode/tree/master/1029-two-city-scheduling) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Tejaswini37/java_leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Tejaswini37/java_leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Tejaswini37/java_leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -641,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/Tejaswini37/java_leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Tejaswini37/java_leetcode/tree/master/1029-two-city-scheduling) |
 | [1129-longest-string-chain](https://github.com/Tejaswini37/java_leetcode/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/Tejaswini37/java_leetcode/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Tejaswini37/java_leetcode/tree/master/1200-minimum-absolute-difference) |
