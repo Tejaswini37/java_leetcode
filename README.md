@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Tejaswini37/java_leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Tejaswini37/java_leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Tejaswini37/java_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tejaswini37/java_leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/Tejaswini37/java_leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Tejaswini37/java_leetcode/tree/master/0242-valid-anagram) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejaswini37/java_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tejaswini37/java_leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Tejaswini37/java_leetcode/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Tejaswini37/java_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Tejaswini37/java_leetcode/tree/master/0239-sliding-window-maximum) |
@@ -727,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Tejaswini37/java_leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Tejaswini37/java_leetcode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Tejaswini37/java_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Tejaswini37/java_leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Tejaswini37/java_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -1223,6 +1226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/Tejaswini37/java_leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Tejaswini37/java_leetcode/tree/master/0078-subsets) |
+| [0187-repeated-dna-sequences](https://github.com/Tejaswini37/java_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Tejaswini37/java_leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Tejaswini37/java_leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Tejaswini37/java_leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -1307,6 +1311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Tejaswini37/java_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Tejaswini37/java_leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/Tejaswini37/java_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/Tejaswini37/java_leetcode/tree/master/0816-design-hashset) |
@@ -1424,4 +1429,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Tejaswini37/java_leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Tejaswini37/java_leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
