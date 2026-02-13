@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Tejaswini37/java_leetcode/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/Tejaswini37/java_leetcode/tree/master/0890-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0912-sort-an-array) |
+| [0916-word-subsets](https://github.com/Tejaswini37/java_leetcode/tree/master/0916-word-subsets) |
 | [0917-boats-to-save-people](https://github.com/Tejaswini37/java_leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Tejaswini37/java_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Tejaswini37/java_leetcode/tree/master/0941-sort-array-by-parity) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0793-swap-adjacent-in-lr-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/Tejaswini37/java_leetcode/tree/master/0812-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tejaswini37/java_leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0916-word-subsets](https://github.com/Tejaswini37/java_leetcode/tree/master/0916-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/Tejaswini37/java_leetcode/tree/master/0953-reverse-only-letters) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Tejaswini37/java_leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0965-unique-email-addresses](https://github.com/Tejaswini37/java_leetcode/tree/master/0965-unique-email-addresses) |
@@ -760,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tejaswini37/java_leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tejaswini37/java_leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0895-maximum-frequency-stack](https://github.com/Tejaswini37/java_leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0916-word-subsets](https://github.com/Tejaswini37/java_leetcode/tree/master/0916-word-subsets) |
 | [0940-fruit-into-baskets](https://github.com/Tejaswini37/java_leetcode/tree/master/0940-fruit-into-baskets) |
 | [0959-3sum-with-multiplicity](https://github.com/Tejaswini37/java_leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0965-unique-email-addresses](https://github.com/Tejaswini37/java_leetcode/tree/master/0965-unique-email-addresses) |
