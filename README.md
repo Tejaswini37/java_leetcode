@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/Tejaswini37/java_leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswini37/java_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Tejaswini37/java_leetcode/tree/master/0658-find-k-closest-elements) |
+| [0665-non-decreasing-array](https://github.com/Tejaswini37/java_leetcode/tree/master/0665-non-decreasing-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Tejaswini37/java_leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Tejaswini37/java_leetcode/tree/master/0735-asteroid-collision) |
