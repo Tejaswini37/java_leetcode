@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Tejaswini37/java_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tejaswini37/java_leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2270-number-of-ways-to-split-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Tejaswini37/java_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-find-the-highest-altitude](https://github.com/Tejaswini37/java_leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tejaswini37/java_leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2017-grid-game](https://github.com/Tejaswini37/java_leetcode/tree/master/2017-grid-game) |
+| [2270-number-of-ways-to-split-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2439-minimize-maximum-of-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Tejaswini37/java_leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Math
