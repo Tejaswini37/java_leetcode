@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Tejaswini37/java_leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Tejaswini37/java_leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2405-optimal-partition-of-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2429-design-a-food-rating-system](https://github.com/Tejaswini37/java_leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2470-removing-stars-from-a-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2490-circular-sentence](https://github.com/Tejaswini37/java_leetcode/tree/master/2490-circular-sentence) |
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Tejaswini37/java_leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Tejaswini37/java_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Tejaswini37/java_leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2405-optimal-partition-of-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2439-minimize-maximum-of-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Tejaswini37/java_leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -788,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2053-kth-distinct-string-in-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Tejaswini37/java_leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2364-count-number-of-bad-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [2405-optimal-partition-of-string](https://github.com/Tejaswini37/java_leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Tejaswini37/java_leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Tejaswini37/java_leetcode/tree/master/2429-design-a-food-rating-system) |
