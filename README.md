@@ -544,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/Tejaswini37/java_leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/Tejaswini37/java_leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tejaswini37/java_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tejaswini37/java_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0856-consecutive-numbers-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0877-stone-game](https://github.com/Tejaswini37/java_leetcode/tree/master/0877-stone-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1238,6 +1239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Tejaswini37/java_leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Tejaswini37/java_leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Tejaswini37/java_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tejaswini37/java_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Tejaswini37/java_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Tejaswini37/java_leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
