@@ -558,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Tejaswini37/java_leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Tejaswini37/java_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Tejaswini37/java_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tejaswini37/java_leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Tejaswini37/java_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Tejaswini37/java_leetcode/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Tejaswini37/java_leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -1248,6 +1249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Tejaswini37/java_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tejaswini37/java_leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Tejaswini37/java_leetcode/tree/master/0868-binary-gap) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tejaswini37/java_leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tejaswini37/java_leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Tejaswini37/java_leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Tejaswini37/java_leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -1379,6 +1381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Tejaswini37/java_leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Tejaswini37/java_leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Tejaswini37/java_leetcode/tree/master/0946-validate-stack-sequences) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tejaswini37/java_leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1701-average-waiting-time](https://github.com/Tejaswini37/java_leetcode/tree/master/1701-average-waiting-time) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tejaswini37/java_leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Tejaswini37/java_leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
